@@ -2,7 +2,7 @@
 
 Firebase Application to accept input from user to create a fictional train list and calculate the next train and minutes away.
 
-![trainscheduler](https://user-images.githubusercontent.com/38441292/44436117-034ffe00-a579-11e8-9e26-77f86f4c6346.JPG)
+![train](https://user-images.githubusercontent.com/38441292/45335061-3a477d00-b543-11e8-8a63-7c406e47b5b1.JPG)
 
 ## Getting Started 
 https://danilarsen16.github.io/TrainScheduler/
